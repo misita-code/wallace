@@ -1,0 +1,21 @@
+.bot-collection {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .bot-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+  }
+  
+  .your-army {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  button {
+    margin: 5px;
+  }
+  
